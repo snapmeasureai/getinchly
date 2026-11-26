@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img width="100%" alt="Four Inchly screens: the Today screen with the next shot countdown, logging a Zepbound dose with the suggested injection site, two 3D body scans side by side with the waist down 2.7 inches, and the estimated medication level chart." src="assets/readme/screens.png" />
+  <img width="100%" alt="Four Inchly screens: the Today screen with the next shot countdown, logging a Zepbound dose with the suggested injection site, two 3D body scans side by side with the waist down 5 inches, and the estimated medication level chart." src="assets/readme/screens.png" />
 </p>
 
 ---
